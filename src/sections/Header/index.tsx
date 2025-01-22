@@ -1,7 +1,6 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import fileResume from '../../assets/resume.pdf'
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons'
-import { data } from '../../contents/header'
+import { data } from '../../contents/header.ts'
 import myImg from '../../assets/ENP00042.jpeg'
 
 const Header = () => {
